@@ -17,9 +17,13 @@
 
 <br>
 
-<div align="right">
+<div align="center">
 
-**The history *is* the portfolio. Start barebones. Commit as you go.**
+## *The history is the portfolio. Start barebones. Commit as you go.*
+
+</div>
+
+<div align="right">
 
 <details>
 <summary><small>context</small></summary>

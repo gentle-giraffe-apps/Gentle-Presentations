@@ -17,9 +17,13 @@
 
 <br>
 
-<div align="right">
+<div align="center">
 
-**The question isn't whether you used AI. It's whether *you* were driving.**
+## *The question isn't whether you used AI. It's whether you were driving.*
+
+</div>
+
+<div align="right">
 
 <details>
 <summary><small>context</small></summary>

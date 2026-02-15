@@ -13,9 +13,13 @@
 
 <br>
 
-<div align="right">
+<div align="center">
 
-**💬 Come curious, not polished.**
+## *💬 Come curious, not polished.*
+
+</div>
+
+<div align="right">
 
 [Next →](02-hard-to-fake.md)
 
