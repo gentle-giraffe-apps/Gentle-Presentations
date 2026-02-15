@@ -43,6 +43,8 @@ Spend time on the thing that's hardest to fake.
 
 </div>
 
-| | |
-|:---|---:|
-| [← Back](README.md) | [Next →](03-ai-assisted.md) |
+<div align="right">
+
+[Next →](03-ai-assisted.md)
+
+</div>

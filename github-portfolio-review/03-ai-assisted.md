@@ -39,6 +39,8 @@ Being upfront about it is a strength.
 
 </div>
 
-| | |
-|:---|---:|
-| [← Back](02-hard-to-fake.md) | [Next →](04-high-roi.md) |
+<div align="right">
+
+[Next →](04-high-roi.md)
+
+</div>

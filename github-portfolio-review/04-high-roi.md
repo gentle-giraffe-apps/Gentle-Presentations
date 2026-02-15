@@ -39,6 +39,8 @@ Once your profile is in shape, make sure the link is on your resume and LinkedIn
 
 </div>
 
-| | |
-|:---|---:|
-| [← Back](03-ai-assisted.md) | [Next →](05-discuss.md) |
+<div align="right">
+
+[Next →](05-discuss.md)
+
+</div>

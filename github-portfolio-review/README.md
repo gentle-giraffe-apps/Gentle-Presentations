@@ -19,6 +19,8 @@
 
 </div>
 
-| | |
-|:---|---:|
-| | [Next →](02-hard-to-fake.md) |
+<div align="right">
+
+[Next →](02-hard-to-fake.md)
+
+</div>

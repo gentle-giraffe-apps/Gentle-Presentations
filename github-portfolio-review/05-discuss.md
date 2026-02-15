@@ -30,6 +30,8 @@
 
 </div>
 
-| | |
-|:---|---:|
-| [← Back](04-high-roi.md) | [Start over](README.md) · [Resources](resources.md) |
+<div align="right">
+
+[Start over](README.md) · [Resources](resources.md)
+
+</div>
