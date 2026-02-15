@@ -1,3 +1,5 @@
+![banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=17&height=100&section=header)
+
 # AI-Assisted Code
 
 <br>
@@ -15,9 +17,18 @@
 > ## The question isn't whether you used AI. It's whether *you* were driving.
 
 <details>
-<summary>Speaker notes</summary>
+<summary><sub>context</sub></summary>
 
-Nobody reasonable expects you to avoid AI tools. If your repo looks like you prompted an LLM and hit "accept all" — that's one signal. If you used AI to get started and then made real decisions on top — that's another. Being upfront about it is a strength.
+<br>
+
+Nobody reasonable expects you to avoid AI tools.
+
+If your repo looks like you prompted an LLM and hit "accept all" — that's one signal.
+
+If you used AI to get started and then made real decisions on top — that's another.
+
+Being upfront about it is a strength.
+
 </details>
 
 [← Back](02-hard-to-fake.md) | [Next →](04-high-roi.md)

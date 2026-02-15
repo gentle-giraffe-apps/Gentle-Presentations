@@ -1,7 +1,7 @@
 # Resources
 
 ### Your Profile
-- [Create a GitHub Profile README](https://youtu.be/ECuqb5Tv9qI) — video walkthrough of the special username repo, stats, badges, and GitHub Actions
+- [Create a GitHub Profile README](https://www.youtube.com/watch?v=QDfLou004iE&t=253s) — video walkthrough of creating your profile README
 - [awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) — curated gallery of standout profile READMEs
 
 ### READMEs & Badges

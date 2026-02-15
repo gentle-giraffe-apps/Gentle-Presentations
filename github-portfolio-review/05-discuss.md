@@ -1,3 +1,5 @@
+![banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=27&height=100&section=header)
+
 # Let's Discuss
 
 <br>
