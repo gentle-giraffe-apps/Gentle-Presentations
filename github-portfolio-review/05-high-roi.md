@@ -1,24 +1,18 @@
-# High ROI Moves
+# High ROI Moves — Whatever Your Goal
 
-### 📖 **A clear, concise README "above the fold"**
-#### Answerable in ~5 seconds: what does this project do?
-#### A screenshot, animated gif, or minimal setup example
-#### Minimal scrolling — value the reader's time
+### 📌 **Audit your pinned repos** — every pin is a signal. Make sure it's the one you want to send.
 
-<br>
+### 📖 **README "above the fold"** — what does this project do, in ~5 seconds? A screenshot or setup example goes a long way.
 
-### 🏷 **Badges that actually mean something**
-#### ✅ Build passing — your project compiles
-#### 📱 Platform support — what it runs on
-#### 🧪 Test coverage — if you have it, show it
+### 🏷 **Badges that mean something** — build status, platform support, test coverage
 
 ---
 
-> ## If someone lands on your repo and can't tell what it does in 5 seconds, nothing else matters.
+> ## The history *is* the portfolio. Start barebones. Commit as you go.
 
 <!--
 Speaker notes:
-This is where a little polish goes a long way. You don't need to over-invest, but the first screenful of your README is prime real estate. A one-liner description, a screenshot or code snippet, and a couple of honest badges — that's it. Badges for build status, platform support, and test coverage are high signal because they're backed by something real. Skip the decorative ones.
+Whether you're job searching, contracting, doing open source, or just learning — different goals, different signals, but the principle is the same. The commit history and the decisions you made along the way are what matter most. You don't need to wait until something is polished. Having something beats having nothing. And once your profile is in shape, make sure the link is prominent on your resume and LinkedIn — if they can't find it, it doesn't exist.
 -->
 
-[← Back](04-good-enough.md) | [Next →](06-discuss.md)
+[← Back](04-ai-assisted.md) | [Next →](06-discuss.md)
