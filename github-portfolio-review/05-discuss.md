@@ -1,5 +1,5 @@
 # Let's Discuss
-![sunset field](https://images.unsplash.com/photo-1692966508647-cb842f426568?w=1200&h=120&fit=crop)
+![divider](images/05-golden-warmth.jpg)
 
 ### 🛠 Free weekend — what would you fix on your profile?
 

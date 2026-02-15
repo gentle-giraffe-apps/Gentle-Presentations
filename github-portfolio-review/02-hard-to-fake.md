@@ -1,5 +1,5 @@
 # These Signals Still Matter.
-![mountains](https://images.unsplash.com/photo-1761474148010-820bacc321d1?w=1200&h=120&fit=crop)
+![divider](images/02-blue-abstract.jpg)
 
 ### 📜 PRs and commits that show *how* you work
 

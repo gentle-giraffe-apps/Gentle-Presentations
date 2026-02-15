@@ -1,5 +1,5 @@
 # AI-Assisted Code
-![forest path](https://images.unsplash.com/photo-1760307711744-7531a977de23?w=1200&h=120&fit=crop)
+![divider](images/03-lavender-fluid.jpg)
 
 ### 🛠 Scaffold with AI, then build on top
 

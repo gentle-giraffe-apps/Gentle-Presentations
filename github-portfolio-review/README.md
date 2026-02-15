@@ -1,5 +1,5 @@
 # GitHub Portfolio Review & Discussion
-![calm lake](https://images.unsplash.com/photo-1560996025-95b43d543770?w=1200&h=120&fit=crop)
+![divider](images/01-watercolor.jpg)
 
 #### 🗓 ~5–10 min of framing, then open discussion
 

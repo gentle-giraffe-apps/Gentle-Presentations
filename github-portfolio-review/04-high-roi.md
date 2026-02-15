@@ -1,5 +1,5 @@
 # High ROI Moves — Whatever Your Goal
-![forest canopy](https://images.unsplash.com/photo-1761340023575-4546bdcec076?w=1200&h=120&fit=crop)
+![divider](images/04-green-abstract.jpg)
 
 ### 📌 **Audit your pins** — every one is a signal
 
