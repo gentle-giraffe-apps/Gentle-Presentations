@@ -1,5 +1,4 @@
-![banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=17&height=100&section=header)
-
+![banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=17&height=60&section=header)
 # AI-Assisted Code
 
 <br>
@@ -17,7 +16,7 @@
 > ## The question isn't whether you used AI. It's whether *you* were driving.
 
 <details>
-<summary><sub>context</sub></summary>
+<summary><small>context</small></summary>
 
 <br>
 

@@ -1,5 +1,4 @@
-![banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14&height=100&section=header)
-
+![banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14&height=60&section=header)
 # AI Raised the Floor. These Signals Still Matter.
 
 <br>
@@ -20,7 +19,7 @@
 > ## These show how you'd behave on a team.
 
 <details>
-<summary><sub>context</sub></summary>
+<summary><small>context</small></summary>
 
 <br>
 

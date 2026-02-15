@@ -1,5 +1,4 @@
-![banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20&height=100&section=header)
-
+![banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20&height=60&section=header)
 # High ROI Moves — Whatever Your Goal
 
 <br>
@@ -17,7 +16,7 @@
 > ## The history *is* the portfolio. Start barebones. Commit as you go.
 
 <details>
-<summary><sub>context</sub></summary>
+<summary><small>context</small></summary>
 
 <br>
 
