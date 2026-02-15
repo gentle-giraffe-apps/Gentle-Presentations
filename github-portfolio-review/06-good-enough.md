@@ -10,13 +10,15 @@
 
 ---
 
-> ## Sometimes the right answer is no portfolio at all.
+> ## Activity beats perfection.
 >
-> #### If your best work is proprietary, say so. That's valid.
+> #### Start barebones. Commit as you go. Share it when you're ready.
+>
+> #### The history *is* the portfolio.
 
 <!--
 Speaker notes:
-Not everyone needs a portfolio. Ten years of internal systems behind an NDA doesn't make you unskilled — it makes you employed. A brief "about me" repo explaining your experience is fine. Be intentional. Don't build a portfolio because LinkedIn told you to.
+You don't need to wait until something is polished to put it on GitHub. Start a repo, keep it private if you want, commit as you work. The history you build along the way — the iteration, the decisions, the progression — that's the thing that's hardest to fake and most impressive to reviewers. If your best work is proprietary, build something small on the side that shows how you think. Having *something* beats having nothing.
 -->
 
 [← Back](05-ai-assisted.md) | [Next →](07-discuss.md)
