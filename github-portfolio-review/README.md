@@ -1,12 +1,19 @@
-# What Actually Matters in a GitHub Portfolio in 2026?
+# GitHub Portfolio Review & Discussion
 
-**GitHub Portfolio Review & Discussion (Senior-Friendly)**
-Hosted by Jonathan R. | Dev Careers: Adapt and Thrive
+## What actually matters in 2026?
+
+### Hosted by Jonathan R. | Dev Careers: Adapt and Thrive
 
 ---
 
-A short framing talk, then open discussion.
+### ~5–10 min of framing, then open discussion
 
-No right answers. Just experienced people comparing notes.
+### Optional live repo walkthroughs
 
-[Start →](01-format.md)
+### No pressure to speak or share — cameras optional
+
+<br>
+
+> # Come curious, not polished.
+
+[Next →](02-landscape.md)
