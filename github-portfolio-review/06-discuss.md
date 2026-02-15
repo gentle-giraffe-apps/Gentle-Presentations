@@ -16,4 +16,4 @@
 >
 > #### No judgment. The whole point is to help each other see what we're missing.
 
-[← Back](06-high-roi.md) | [Start over](README.md)
+[← Back](05-high-roi.md) | [Start over](README.md)

@@ -21,4 +21,4 @@ Speaker notes:
 This is where a little polish goes a long way. You don't need to over-invest, but the first screenful of your README is prime real estate. A one-liner description, a screenshot or code snippet, and a couple of honest badges — that's it. Badges for build status, platform support, and test coverage are high signal because they're backed by something real. Skip the decorative ones.
 -->
 
-[← Back](05-good-enough.md) | [Next →](07-discuss.md)
+[← Back](04-good-enough.md) | [Next →](06-discuss.md)

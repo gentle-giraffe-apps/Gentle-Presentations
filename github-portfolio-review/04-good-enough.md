@@ -17,4 +17,4 @@ Speaker notes:
 You don't need to wait until something is polished to put it on GitHub. Start a repo, keep it private if you want, commit as you work. The history you build — the iteration, the decisions, the progression — that's the thing that's hardest to fake and most impressive to reviewers. Having something beats having nothing.
 -->
 
-[← Back](04-ai-assisted.md) | [Next →](06-high-roi.md)
+[← Back](03-ai-assisted.md) | [Next →](05-high-roi.md)

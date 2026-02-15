@@ -14,4 +14,4 @@
 
 > ## 💬 Come curious, not polished.
 
-[Next →](02-landscape.md)
+[Next →](02-hard-to-fake.md)
