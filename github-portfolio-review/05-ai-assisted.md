@@ -1,19 +1,19 @@
 # AI-Assisted Code
 
-## What helps:
-### Scaffold with AI, then build on top of it
-### Be transparent about what you used
-### Directing AI well is a real, demonstrable skill
+### ✅ What helps:
+#### 🛠 Scaffold with AI, then build on top of it
+#### 🪟 Be transparent about what you used
+#### 🧠 Directing AI well is a real, demonstrable skill
 
 <br>
 
-## What hurts:
-### Repos that are obviously generated with no human layer
-### Claiming fully original work when it clearly isn't
+### ⚠️ What hurts:
+#### 🤖 Repos that are obviously generated with no human layer
+#### 🚫 Claiming fully original work when it clearly isn't
 
 ---
 
-# The question isn't whether you used AI. It's whether *you* were driving.
+> ## The question isn't whether you used AI. It's whether *you* were driving.
 
 <!--
 Speaker notes:

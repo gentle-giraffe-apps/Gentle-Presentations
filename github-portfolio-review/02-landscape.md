@@ -1,14 +1,14 @@
 # The Landscape Has Shifted
 
-## AI can generate impressive-looking repos in minutes
+### 🤖 AI can generate impressive-looking repos in minutes
 
-## Portfolio advice online is louder and more contradictory than ever
+### 📢 Portfolio advice online is louder and more contradictory than ever
 
-## Hiring managers are adapting — some faster than others
+### 👀 Hiring managers are adapting — some faster than others
 
 ---
 
-# The bar hasn't gone up. It's moved.
+> ## The bar hasn't gone up. It's moved.
 
 <!--
 Speaker notes:

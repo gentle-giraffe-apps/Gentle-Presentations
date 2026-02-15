@@ -1,18 +1,18 @@
 # "Good Enough" Depends on Your Goal
 
-## **Job search** — 1–2 strong repos, clear READMEs, evidence of judgment
+### 💼 **Job search** — 1–2 strong repos, clear READMEs, evidence of judgment
 
-## **Contracting** — Working demos, documentation, proof you ship
+### 🤝 **Contracting** — Working demos, documentation, proof you ship
 
-## **Open source** — Contribution history, issue engagement, maintainer habits
+### 🌐 **Open source** — Contribution history, issue engagement, maintainer habits
 
-## **Learning** — Honest commit history, notes-to-self, progression
+### 📚 **Learning** — Honest commit history, notes-to-self, progression
 
 ---
 
-# Sometimes the right answer is no portfolio at all.
-
-### If your best work is proprietary, say so. That's valid.
+> ## Sometimes the right answer is no portfolio at all.
+>
+> #### If your best work is proprietary, say so. That's valid.
 
 <!--
 Speaker notes:

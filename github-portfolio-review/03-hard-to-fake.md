@@ -1,18 +1,18 @@
 # Signals That Are Hard to Fake
 
-## Commit history that tells a story
+### 📜 Commit history that tells a story
 
-## Tests that reflect real edge cases
+### 🧪 Tests that reflect real edge cases
 
-## CI that actually runs
+### ✅ CI that actually runs
 
-## Tradeoff explanations in docs or READMEs
+### ⚖️ Tradeoff explanations in docs or READMEs
 
-## Code review habits — even on your own PRs
+### 🔍 Code review habits — even on your own PRs
 
 ---
 
-# These are boring. But they show how you behave on a team.
+> ## These are boring. But they show how you behave on a team.
 
 <!--
 Speaker notes:

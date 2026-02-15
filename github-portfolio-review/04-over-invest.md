@@ -1,16 +1,16 @@
 # Where People Over-Invest
 
-## Pixel-perfect demos for projects nobody will run
+### 🎨 Pixel-perfect demos for projects nobody will run
 
-## Badge collections that don't reflect real practice
+### 🏅 Badge collections that don't reflect real practice
 
-## Polished READMEs on throwaway experiments
+### 📝 Polished READMEs on throwaway experiments
 
-## Mass-producing repos to fill a contribution grid
+### 🟩 Mass-producing repos to fill a contribution grid
 
 ---
 
-# A half-finished project with honest commits can beat a polished one that looks generated.
+> ## A half-finished project with honest commits can beat a polished one that looks generated.
 
 <!--
 Speaker notes:
