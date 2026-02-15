@@ -1,15 +1,12 @@
 # AI-Assisted Code
 
-### ✅ What helps:
-#### 🛠 Scaffold with AI, then build on top of it
-#### 🪟 Be transparent about what you used
-#### 🧠 Directing AI well is a real, demonstrable skill
+### 🛠 Scaffold with AI, then build on top of it
 
-<br>
+### 🪟 Be transparent about what you used
 
-### ⚠️ What hurts:
-#### 🤖 Repos that are obviously generated with no human layer
-#### 🚫 Claiming fully original work when it clearly isn't
+### 🧠 Directing AI well is a real, demonstrable skill
+
+### 🚫 But repos with no human layer are obvious — and so is claiming otherwise
 
 ---
 
@@ -20,4 +17,4 @@ Speaker notes:
 Nobody reasonable expects you to avoid AI tools. If your repo looks like you prompted an LLM and hit "accept all" — that's one signal. If you used AI to get started and then made real decisions on top — that's another. Being upfront about it is a strength.
 -->
 
-[← Back](04-over-invest.md) | [Next →](06-good-enough.md)
+[← Back](03-hard-to-fake.md) | [Next →](05-good-enough.md)
