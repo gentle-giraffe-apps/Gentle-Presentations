@@ -9,6 +9,10 @@
 
 <br>
 
-> ## 💬 Come curious, not polished.
+<div align="right">
+
+**💬 Come curious, not polished.**
 
 [Next →](02-hard-to-fake.md)
+
+</div>

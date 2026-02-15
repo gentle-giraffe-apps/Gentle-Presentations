@@ -11,7 +11,9 @@
 
 <br>
 
-> ## The question isn't whether you used AI. It's whether *you* were driving.
+<div align="right">
+
+**The question isn't whether you used AI. It's whether *you* were driving.**
 
 <details>
 <summary><small>context</small></summary>
@@ -29,3 +31,5 @@ Being upfront about it is a strength.
 </details>
 
 [← Back](02-hard-to-fake.md) | [Next →](04-high-roi.md)
+
+</div>

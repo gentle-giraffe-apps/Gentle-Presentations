@@ -13,8 +13,12 @@
 
 <br>
 
-> ## Pick any of these, bring your own, or share a repo for live feedback.
->
-> #### No judgment. The whole point is to help each other see what we're missing.
+<div align="right">
+
+**Pick any of these, bring your own, or share a repo for live feedback.**
+
+*No judgment. The whole point is to help each other see what we're missing.*
 
 [← Back](04-high-roi.md) | [Start over](README.md) | [Resources](resources.md)
+
+</div>

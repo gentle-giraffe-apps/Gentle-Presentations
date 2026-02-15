@@ -11,7 +11,9 @@
 
 <br>
 
-> ## The history *is* the portfolio. Start barebones. Commit as you go.
+<div align="right">
+
+**The history *is* the portfolio. Start barebones. Commit as you go.**
 
 <details>
 <summary><small>context</small></summary>
@@ -29,3 +31,5 @@ Once your profile is in shape, make sure the link is on your resume and LinkedIn
 </details>
 
 [← Back](03-ai-assisted.md) | [Next →](05-discuss.md)
+
+</div>

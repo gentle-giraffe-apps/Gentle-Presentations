@@ -1,4 +1,4 @@
-# AI Raised the Floor. These Signals Still Matter.
+# These Signals Still Matter.
 ![banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14&height=80&section=footer)
 
 ### 📜 PRs and commits that show *how* you work
@@ -14,7 +14,9 @@
 
 <br>
 
-> ## These show how you'd behave on a team.
+<div align="right">
+
+**These show how you'd behave on a team.**
 
 <details>
 <summary><small>context</small></summary>
@@ -32,3 +34,5 @@ Spend time on the thing that's hardest to fake.
 </details>
 
 [← Back](README.md) | [Next →](03-ai-assisted.md)
+
+</div>
