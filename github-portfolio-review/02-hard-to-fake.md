@@ -1,7 +1,5 @@
-![banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14&height=60&section=header)
 # AI Raised the Floor. These Signals Still Matter.
-
-<br>
+![banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14&height=80&section=footer)
 
 ### 📜 PRs and commits that show *how* you work
 

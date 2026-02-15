@@ -1,7 +1,5 @@
-![banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=17&height=60&section=header)
 # AI-Assisted Code
-
-<br>
+![banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=17&height=80&section=footer)
 
 ### 🛠 Scaffold with AI, then build on top
 
