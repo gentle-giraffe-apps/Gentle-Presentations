@@ -1,10 +1,14 @@
 # High ROI Moves — Whatever Your Goal
 
+<br>
+
 ### 📌 **Audit your pinned repos** — every pin is a signal. Make sure it's the one you want to send.
 
 ### 📖 **README "above the fold"** — what does this project do, in ~5 seconds? A screenshot or setup example goes a long way.
 
 ### 🏷 **Badges that mean something** — build status, platform support, test coverage
+
+<br>
 
 > ## The history *is* the portfolio. Start barebones. Commit as you go.
 

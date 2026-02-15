@@ -1,5 +1,7 @@
 # AI Raised the Floor. These Signals Still Matter.
 
+<br>
+
 ### 📜 Commit history that tells a story
 
 ### 🧪 Test coverage above 80% via CI — visible at a glance, strong signal
@@ -8,6 +10,8 @@
 
 ### 🎥 **Not for the faint of heart** — a 3–4 minute video intro on your profile
 #### A resume can't show how you communicate (audio requires unmute)
+
+<br>
 
 > ## These are boring. But they show how you behave on a team.
 

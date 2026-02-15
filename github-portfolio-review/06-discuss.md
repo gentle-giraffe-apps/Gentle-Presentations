@@ -1,5 +1,7 @@
 # Let's Discuss
 
+<br>
+
 ### 💡 What's the last thing you noticed on someone's GitHub that changed your impression of them?
 
 ### 🤖 Have you seen AI-generated repos in the wild? What tipped you off?
@@ -9,6 +11,8 @@
 ### 🎤 For those interviewing: has anyone actually asked about your GitHub?
 
 ### 🛠 What would you change about your GitHub if you had a free weekend?
+
+<br>
 
 > ## Pick any of these, bring your own, or share a repo for live feedback.
 >

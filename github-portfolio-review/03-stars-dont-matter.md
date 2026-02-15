@@ -1,5 +1,7 @@
 # GitHub Is Not Social Media
 
+<br>
+
 ### ⭐ Low star count? Nobody who's hiring you cares.
 
 ### 👤 Few followers? Irrelevant to your engineering ability.
@@ -9,6 +11,8 @@
 ### 😶 Don't let vanity metrics stop you from shipping real work.
 
 ### 👍 Starring repos you use and following people you learn from shows engagement — and it shows on your profile
+
+<br>
 
 > ## Your best project has 3 stars. So does almost everyone's. Post it anyway.
 

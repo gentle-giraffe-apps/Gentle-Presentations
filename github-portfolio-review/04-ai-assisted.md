@@ -1,5 +1,7 @@
 # AI-Assisted Code
 
+<br>
+
 ### 🛠 Scaffold with AI, then build on top of it
 
 ### 🪟 Be transparent about what you used
@@ -7,6 +9,8 @@
 ### 🧠 Directing AI well is a real, demonstrable skill
 
 ### 🚫 But repos with no human layer are obvious — and so is claiming otherwise
+
+<br>
 
 > ## The question isn't whether you used AI. It's whether *you* were driving.
 
