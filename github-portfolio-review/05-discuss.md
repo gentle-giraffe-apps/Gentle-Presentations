@@ -2,15 +2,15 @@
 
 <br>
 
-### 💡 What's the last thing you noticed on someone's GitHub that changed your impression of them?
+### 🛠 Free weekend — what would you fix on your profile?
 
-### 🤖 Have you seen AI-generated repos in the wild? What tipped you off?
+### 💡 What on someone's GitHub changed your impression of them?
 
-### 🎯 Where do you draw the line between "good enough" and "over-polished"?
+### 🧠 What's one thing you wish you'd known about GitHub profiles earlier?
 
-### 🎤 For those interviewing: has anyone actually asked about your GitHub?
+### 🎯 If you could only show one repo in an interview, which and why?
 
-### 🛠 What would you change about your GitHub if you had a free weekend?
+### 🤝 What signal on a profile would make you want to work with someone?
 
 <br>
 
@@ -18,4 +18,4 @@
 >
 > #### No judgment. The whole point is to help each other see what we're missing.
 
-[← Back](04-high-roi.md) | [Start over](README.md)
+[← Back](04-high-roi.md) | [Start over](README.md) | [Resources](resources.md)
