@@ -10,8 +10,6 @@
 
 ### 🛠 What would you change about your GitHub if you had a free weekend?
 
----
-
 > ## Pick any of these, bring your own, or share a repo for live feedback.
 >
 > #### No judgment. The whole point is to help each other see what we're missing.

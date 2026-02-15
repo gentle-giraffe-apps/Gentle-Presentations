@@ -8,8 +8,6 @@
 
 ### 🚫 But repos with no human layer are obvious — and so is claiming otherwise
 
----
-
 > ## The question isn't whether you used AI. It's whether *you* were driving.
 
 <!--

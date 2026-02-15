@@ -9,8 +9,6 @@
 ### 🎥 **Not for the faint of heart** — a 3–4 minute video intro on your profile
 #### A resume can't show how you communicate (audio requires unmute)
 
----
-
 > ## These are boring. But they show how you behave on a team.
 
 <!--

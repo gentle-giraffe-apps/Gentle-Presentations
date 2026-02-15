@@ -2,8 +2,6 @@
 
 ## What actually matters in 2026?
 
----
-
 #### 🗓 ~5–10 min of framing, then open discussion
 
 #### 💻 Optional live repo walkthroughs

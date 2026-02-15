@@ -10,8 +10,6 @@
 
 ### 👍 Starring repos you use and following people you learn from shows engagement — and it shows on your profile
 
----
-
 > ## Your best project has 3 stars. So does almost everyone's. Post it anyway.
 
 <!--

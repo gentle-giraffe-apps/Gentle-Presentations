@@ -6,8 +6,6 @@
 
 ### 🏷 **Badges that mean something** — build status, platform support, test coverage
 
----
-
 > ## The history *is* the portfolio. Start barebones. Commit as you go.
 
 <!--
