@@ -1,5 +1,5 @@
 # AI-Assisted Code
-![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=17&height=3)
+![forest path](https://images.unsplash.com/photo-1760307711744-7531a977de23?w=1200&h=120&fit=crop)
 
 ### 🛠 Scaffold with AI, then build on top
 

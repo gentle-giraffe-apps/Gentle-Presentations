@@ -1,5 +1,5 @@
 # GitHub Portfolio Review & Discussion
-![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=3)
+![calm lake](https://images.unsplash.com/photo-1560996025-95b43d543770?w=1200&h=120&fit=crop)
 
 #### 🗓 ~5–10 min of framing, then open discussion
 

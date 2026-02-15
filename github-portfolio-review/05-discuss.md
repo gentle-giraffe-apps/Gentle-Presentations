@@ -1,5 +1,5 @@
 # Let's Discuss
-![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=27&height=3)
+![sunset field](https://images.unsplash.com/photo-1692966508647-cb842f426568?w=1200&h=120&fit=crop)
 
 ### 🛠 Free weekend — what would you fix on your profile?
 

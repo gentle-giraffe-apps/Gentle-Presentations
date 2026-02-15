@@ -1,5 +1,5 @@
 # These Signals Still Matter.
-![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=14&height=3)
+![mountains](https://images.unsplash.com/photo-1761474148010-820bacc321d1?w=1200&h=120&fit=crop)
 
 ### 📜 PRs and commits that show *how* you work
 
