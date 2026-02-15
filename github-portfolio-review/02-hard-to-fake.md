@@ -1,4 +1,4 @@
-# *Signals that Still Matter.*
+# Signals that Still Matter.
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=14&height=10)
 
 ### 📜 PRs and commits that show *how* you work
@@ -40,6 +40,9 @@ Spend time on the thing that's hardest to fake.
 
 </details>
 
-[← Back](README.md) | [Next →](03-ai-assisted.md)
 
 </div>
+
+| | |
+|:---|---:|
+| [← Back](README.md) | [Next →](03-ai-assisted.md) |

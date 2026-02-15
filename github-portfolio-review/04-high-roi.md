@@ -1,4 +1,4 @@
-# *High ROI Moves — Whatever Your Goal*
+# High ROI Moves — Whatever Your Goal
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20&height=10)
 
 ### 📌 **Audit your pins** — every one is a signal
@@ -36,6 +36,9 @@ Once your profile is in shape, make sure the link is on your resume and LinkedIn
 
 </details>
 
-[← Back](03-ai-assisted.md) | [Next →](05-discuss.md)
 
 </div>
+
+| | |
+|:---|---:|
+| [← Back](03-ai-assisted.md) | [Next →](05-discuss.md) |

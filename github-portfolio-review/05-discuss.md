@@ -1,4 +1,4 @@
-# *Let's Discuss*
+# Let's Discuss
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=27&height=10)
 
 ### 🛠 Free weekend — what would you fix on your profile?
@@ -27,6 +27,9 @@
 
 #### *No judgment. The whole point is to help each other see what we're missing.*
 
-[← Back](04-high-roi.md) | [Start over](README.md) | [Resources](resources.md)
 
 </div>
+
+| | |
+|:---|---:|
+| [← Back](04-high-roi.md) | [Start over](README.md) · [Resources](resources.md) |
