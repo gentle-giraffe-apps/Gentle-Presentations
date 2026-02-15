@@ -1,4 +1,4 @@
-# AI-Assisted Code
+# *AI-Assisted Code*
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=17&height=10)
 
 ### 🛠 Scaffold with AI, then build on top

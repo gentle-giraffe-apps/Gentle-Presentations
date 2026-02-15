@@ -1,4 +1,4 @@
-# Let's Discuss
+# *Let's Discuss*
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=27&height=10)
 
 ### 🛠 Free weekend — what would you fix on your profile?

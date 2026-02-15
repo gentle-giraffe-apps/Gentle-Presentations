@@ -1,4 +1,4 @@
-# These Signals Still Matter.
+# *Signals that Still Matter.*
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=14&height=10)
 
 ### 📜 PRs and commits that show *how* you work
@@ -17,7 +17,7 @@
 
 <br/>
 
-### ⭐ Ignore vanity metrics — just ship
+### ⭐ Ignore vanity metrics. Ship evidence.
 
 <br>
 

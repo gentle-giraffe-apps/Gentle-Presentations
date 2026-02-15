@@ -1,4 +1,4 @@
-# GitHub Portfolio Review & Discussion
+# *GitHub Portfolio Review & Discussion*
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=10)
 
 #### 🗓 ~5–10 min of framing, then open discussion
