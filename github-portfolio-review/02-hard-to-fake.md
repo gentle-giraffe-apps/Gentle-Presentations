@@ -1,14 +1,21 @@
 # These Signals Still Matter.
-![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=14&height=20)
+![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=14&height=10)
 
 ### 📜 PRs and commits that show *how* you work
 
+<br/>
+
 ### 🧪 80%+ test coverage in CI — visible at a glance
+
+<br/>
 
 ### ⚖️ Docs that show judgment — the *why*, not the *what*
 
+<br/>
+
 ### 🎥 Bold move: a 3–4 min video intro on your profile
-#### Resumes can't show how you communicate
+
+<br/>
 
 ### ⭐ Ignore vanity metrics — just ship
 

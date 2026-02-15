@@ -1,11 +1,17 @@
 # High ROI Moves — Whatever Your Goal
-![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20&height=20)
+![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20&height=10)
 
 ### 📌 **Audit your pins** — every one is a signal
 
+<br/>
+
 ### 📖 **README above the fold** — what does it do in 5 seconds?
 
+<br/>
+
 ### 🏷 **Meaningful badges** — build status, coverage, platform
+
+<br/>
 
 ### 👍 **Star and follow generously** — it shows as engagement
 
