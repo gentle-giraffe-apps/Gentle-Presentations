@@ -1,6 +1,6 @@
 # GitHub Portfolio Review & Discussion
 
-## What actually matters in 2026?
+<br>
 
 #### 🗓 ~5–10 min of framing, then open discussion
 

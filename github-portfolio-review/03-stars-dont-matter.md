@@ -6,8 +6,6 @@
 
 ### 👤 Few followers? Irrelevant to your engineering ability.
 
-### 📊 Stars measure virality, not quality. Most great software has almost none.
-
 ### 😶 Don't let vanity metrics stop you from shipping real work.
 
 ### 👍 Starring repos you use and following people you learn from shows engagement — and it shows on your profile
