@@ -1,5 +1,5 @@
 # High ROI Moves — Whatever Your Goal
-![banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20&height=80&section=footer)
+![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20&height=3)
 
 ### 📌 **Audit your pins** — every one is a signal
 

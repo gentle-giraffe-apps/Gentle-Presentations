@@ -1,5 +1,5 @@
 # Let's Discuss
-![banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=27&height=80&section=footer)
+![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=27&height=3)
 
 ### 🛠 Free weekend — what would you fix on your profile?
 

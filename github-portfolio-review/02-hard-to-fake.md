@@ -1,5 +1,5 @@
 # These Signals Still Matter.
-![banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14&height=80&section=footer)
+![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=14&height=3)
 
 ### 📜 PRs and commits that show *how* you work
 

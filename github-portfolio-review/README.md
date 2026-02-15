@@ -1,5 +1,5 @@
 # GitHub Portfolio Review & Discussion
-![banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=80&section=footer)
+![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=3)
 
 #### 🗓 ~5–10 min of framing, then open discussion
 
