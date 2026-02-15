@@ -21,13 +21,9 @@
 
 <br>
 
-<div align="center">
+<div align="right">
 
 ## *These show how you'd behave on a team.*
-
-</div>
-
-<div align="right">
 
 <details>
 <summary><small>context</small></summary>

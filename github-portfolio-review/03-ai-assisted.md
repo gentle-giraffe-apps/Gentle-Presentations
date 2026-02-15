@@ -17,13 +17,9 @@
 
 <br>
 
-<div align="center">
+<div align="right">
 
 ## *The question isn't whether you used AI. It's whether you were driving.*
-
-</div>
-
-<div align="right">
 
 <details>
 <summary><small>context</small></summary>
