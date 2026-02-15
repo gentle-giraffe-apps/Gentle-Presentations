@@ -1,5 +1,5 @@
 # GitHub Portfolio Review & Discussion
-![divider](images/01-watercolor.jpg)
+![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=20)
 
 #### 🗓 ~5–10 min of framing, then open discussion
 

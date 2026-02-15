@@ -1,5 +1,5 @@
 # AI-Assisted Code
-![divider](images/03-lavender-fluid.jpg)
+![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=17&height=20)
 
 ### 🛠 Scaffold with AI, then build on top
 

@@ -1,5 +1,5 @@
 # These Signals Still Matter.
-![divider](images/02-blue-abstract.jpg)
+![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=14&height=20)
 
 ### 📜 PRs and commits that show *how* you work
 
